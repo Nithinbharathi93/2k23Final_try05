@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav .top .fh5co-social li a i {
   font-size: 14px;
 }
-.fh5co-nav #fh5co-logo {
+.fh5co-nav #<title>GreatX</title> {
   font-size: 24px;
   margin: 0;
   padding: 0;
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: 700;
   font-family: "Work Sans", Arial, sans-serif;
 }
-.fh5co-nav #fh5co-logo a span {
+.fh5co-nav #<title>GreatX</title> a span {
   color: #EA9215;
 }
 .fh5co-nav a {
